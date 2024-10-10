@@ -1,0 +1,4 @@
+/* In your global CSS or component-specific styles */
+body {
+  padding-top: 64px; /* Adjust this value based on the height of your AppBar */
+}
